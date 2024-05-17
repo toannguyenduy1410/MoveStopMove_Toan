@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be6c95814dfa24c419704f7feab11396, type: 3}
+  m_Name: UpLevelData
+  m_EditorClassIdentifier: 
+  UplevelData:
+  - minLevel: 0
+    maxLevel: 1
+    quantityScale: 1
+    quantityCoint: 5
+    UpScale: 1
+    UpCamera: 0
+  - minLevel: 2
+    maxLevel: 5
+    quantityScale: 2
+    quantityCoint: 10
+    UpScale: 1.2
+    UpCamera: 3
+  - minLevel: 6
+    maxLevel: 10
+    quantityScale: 3
+    quantityCoint: 15
+    UpScale: 1.5
+    UpCamera: 6
+  - minLevel: 11
+    maxLevel: 18
+    quantityScale: 3
+    quantityCoint: 20
+    UpScale: 1.8
+    UpCamera: 6

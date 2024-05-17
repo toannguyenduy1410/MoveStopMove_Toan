@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0dea534a4111c7144a8f5a8a0c7c1e57, type: 3}
+  m_Name: New List Material SO
+  m_EditorClassIdentifier: 
+  listmaterials:
+  - Material: {fileID: 2100000, guid: b2d9f216adcf8e64585bdae4980e46b5, type: 2}
+    ColorMaterial:
+      serializedVersion: 2
+      rgba: 4278190080
+  - Material: {fileID: 2100000, guid: 6b4e278f2b209c846925e6ea5d2ae890, type: 2}
+    ColorMaterial:
+      serializedVersion: 2
+      rgba: 4279033880
+  - Material: {fileID: 2100000, guid: 9df2ac806ad378f47b75be49a89093ee, type: 2}
+    ColorMaterial:
+      serializedVersion: 2
+      rgba: 4291893711
+  - Material: {fileID: 2100000, guid: f296a6979f207c34eb491be712eeea8b, type: 2}
+    ColorMaterial:
+      serializedVersion: 2
+      rgba: 4280812775
+  - Material: {fileID: 2100000, guid: 048e7b65a5e050044a1efea7b0aececd, type: 2}
+    ColorMaterial:
+      serializedVersion: 2
+      rgba: 4294967295
+  - Material: {fileID: 2100000, guid: 40129e0de2a91da4aba48da30c251adb, type: 2}
+    ColorMaterial:
+      serializedVersion: 2
+      rgba: 4291893534

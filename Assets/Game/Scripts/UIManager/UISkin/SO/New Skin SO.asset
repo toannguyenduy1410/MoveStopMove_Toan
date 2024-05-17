@@ -1,0 +1,169 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d49fc6b89387674b92ae82e747f2ac7, type: 3}
+  m_Name: New Skin SO
+  m_EditorClassIdentifier: 
+  listSkinHair:
+  - coint: 200
+    sprite: {fileID: 21300000, guid: eb69cff6254433d4e9c38084ef04f590, type: 3}
+    matPlayer:
+    - {fileID: 2100000, guid: 42846f32b69b660408cad12e321cd0c0, type: 2}
+    listObjSkin:
+    - parent: 0
+      objSkin: {fileID: 6886361905806370904, guid: 599660daea7bfff4d9567ea94a2152be, type: 3}
+  - coint: 300
+    sprite: {fileID: 21300000, guid: e18f18b183a01424f8c20f088905e355, type: 3}
+    matPlayer:
+    - {fileID: 2100000, guid: 42846f32b69b660408cad12e321cd0c0, type: 2}
+    listObjSkin:
+    - parent: 0
+      objSkin: {fileID: 8927589743827425820, guid: 5b543f8973a526646983d84645f4f7f1, type: 3}
+  - coint: 300
+    sprite: {fileID: 21300000, guid: da18f161bc01907449ffa4e6f5b50614, type: 3}
+    matPlayer:
+    - {fileID: 2100000, guid: 42846f32b69b660408cad12e321cd0c0, type: 2}
+    listObjSkin:
+    - parent: 0
+      objSkin: {fileID: 5217684564170883877, guid: 7a7b7177b2b5a8f42ad9eeedf2e0a2bd, type: 3}
+  - coint: 300
+    sprite: {fileID: 21300000, guid: 618234528de04654db5493d4d04dbbf2, type: 3}
+    matPlayer:
+    - {fileID: 2100000, guid: 42846f32b69b660408cad12e321cd0c0, type: 2}
+    listObjSkin:
+    - parent: 0
+      objSkin: {fileID: 4028603103190241524, guid: 1bcfac151a2f3a943b5dbe939e380174, type: 3}
+  - coint: 300
+    sprite: {fileID: 21300000, guid: 703801d9a7f60c244a3ee076f49edb23, type: 3}
+    matPlayer:
+    - {fileID: 2100000, guid: 42846f32b69b660408cad12e321cd0c0, type: 2}
+    listObjSkin:
+    - parent: 0
+      objSkin: {fileID: 6370190991855495467, guid: 1ee4afa1c77607e419dfb30ddd8bfbab, type: 3}
+  - coint: 300
+    sprite: {fileID: 21300000, guid: afbe2aeef5262db48ac8ac1124dfd412, type: 3}
+    matPlayer:
+    - {fileID: 2100000, guid: 42846f32b69b660408cad12e321cd0c0, type: 2}
+    listObjSkin:
+    - parent: 0
+      objSkin: {fileID: 1194546827726108720, guid: 6e121f0f6a7f7e740a609ab5d0b37fd2, type: 3}
+  - coint: 300
+    sprite: {fileID: 21300000, guid: 5c06bab390a79764d8d0539b57b1cf45, type: 3}
+    matPlayer:
+    - {fileID: 2100000, guid: 42846f32b69b660408cad12e321cd0c0, type: 2}
+    listObjSkin:
+    - parent: 0
+      objSkin: {fileID: 7267360926473236263, guid: 9016afc52678be8408fcbb3daa76b2e7, type: 3}
+  listSkinPant:
+  - coint: 300
+    sprite: {fileID: 21300000, guid: 1f7e9eb236c8768498ad5d8078d2533d, type: 3}
+    matPlayer:
+    - {fileID: 2100000, guid: 42846f32b69b660408cad12e321cd0c0, type: 2}
+    material:
+    - {fileID: 2100000, guid: 89e1656d982198c4a84f3a3c0e1c2232, type: 2}
+  - coint: 400
+    sprite: {fileID: 21300000, guid: 3ddbc9e0f3f883a46b1ba9635f87c222, type: 3}
+    matPlayer:
+    - {fileID: 2100000, guid: 42846f32b69b660408cad12e321cd0c0, type: 2}
+    material:
+    - {fileID: 2100000, guid: 23ded6b607409ec49966f4d6c0b6e37c, type: 2}
+  - coint: 400
+    sprite: {fileID: 21300000, guid: 2652851e5f7772041add8ebe7d548f2b, type: 3}
+    matPlayer:
+    - {fileID: 2100000, guid: 42846f32b69b660408cad12e321cd0c0, type: 2}
+    material:
+    - {fileID: 2100000, guid: ac8312008dc7aab4191d63036a0ad3dd, type: 2}
+  - coint: 400
+    sprite: {fileID: 21300000, guid: ae9d58ecee0e3f848b8fedb3f2c67648, type: 3}
+    matPlayer:
+    - {fileID: 2100000, guid: 42846f32b69b660408cad12e321cd0c0, type: 2}
+    material:
+    - {fileID: 2100000, guid: 82c0fd63b24c49749bf6454c6facff23, type: 2}
+  - coint: 400
+    sprite: {fileID: 21300000, guid: 5433d4b044040c44487399b59f52e2b4, type: 3}
+    matPlayer:
+    - {fileID: 2100000, guid: 42846f32b69b660408cad12e321cd0c0, type: 2}
+    material:
+    - {fileID: 2100000, guid: 9672caf65702904409d4a53fd44dcf4b, type: 2}
+  - coint: 400
+    sprite: {fileID: 21300000, guid: ea8161e4ed231be438fe9e968bc8752c, type: 3}
+    matPlayer:
+    - {fileID: 2100000, guid: 42846f32b69b660408cad12e321cd0c0, type: 2}
+    material:
+    - {fileID: 2100000, guid: 2d8f746c5cd069a43ab0ce786e60f5bc, type: 2}
+  - coint: 400
+    sprite: {fileID: 21300000, guid: 4d6b3cb74098a8640b03cd004d1dcdbb, type: 3}
+    matPlayer:
+    - {fileID: 2100000, guid: 42846f32b69b660408cad12e321cd0c0, type: 2}
+    material:
+    - {fileID: 2100000, guid: 75914151db5559d4a84ed4727b5f44a5, type: 2}
+  - coint: 400
+    sprite: {fileID: 21300000, guid: a39a74b87842b704ab4bc6eec7e6c287, type: 3}
+    matPlayer:
+    - {fileID: 2100000, guid: 42846f32b69b660408cad12e321cd0c0, type: 2}
+    material:
+    - {fileID: 2100000, guid: ff15289971a7d3e4ab5040f21a62d107, type: 2}
+  - coint: 400
+    sprite: {fileID: 21300000, guid: 343f00cc518f2c34090d54d64a12c62e, type: 3}
+    matPlayer:
+    - {fileID: 2100000, guid: 42846f32b69b660408cad12e321cd0c0, type: 2}
+    material:
+    - {fileID: 2100000, guid: 0f15f16e9db09684ebc3720730504d11, type: 2}
+  listSkinShield:
+  - coint: 500
+    sprite: {fileID: 21300000, guid: 3dedbea6f56343249805bb0aee8693f9, type: 3}
+    matPlayer:
+    - {fileID: 2100000, guid: 42846f32b69b660408cad12e321cd0c0, type: 2}
+    objSkin:
+      parent: 2
+      objSkin: {fileID: 2026802812365467369, guid: 3585f49e7cb74cf4b8205167bcc33225, type: 3}
+  - coint: 500
+    sprite: {fileID: 21300000, guid: 5033499010ad59241ad2cbdc6b1f9694, type: 3}
+    matPlayer:
+    - {fileID: 2100000, guid: 42846f32b69b660408cad12e321cd0c0, type: 2}
+    objSkin:
+      parent: 2
+      objSkin: {fileID: 2557524770758724768, guid: 8821d9081f0186d4d9855c79294400df, type: 3}
+  listSkinSet:
+  - coint: 2000
+    sprite: {fileID: 21300000, guid: 47489d63e5926ef478fda009b5f7b683, type: 3}
+    material:
+    - {fileID: 5593086581000202228, guid: c7b1e814e40b3584db8379f612c1578e, type: 3}
+    listObjSkin:
+    - parent: 0
+      objSkin: {fileID: 3341995518698739868, guid: 625cccb4a66aa8343bd8853ddb149010, type: 3}
+    - parent: 1
+      objSkin: {fileID: 6646864547679673723, guid: 92029c3a742fe1a43b1ccc3ed9a82b41, type: 3}
+    - parent: 3
+      objSkin: {fileID: 8815774083215079674, guid: d68d5aa36bc8ee841b3b75c9b6aab160, type: 3}
+  - coint: 1000
+    sprite: {fileID: 21300000, guid: 74f22cae5f11d6049b5ad45d2c791d6d, type: 3}
+    material:
+    - {fileID: 2100000, guid: a3d14c833adb905499e6148b0998af8c, type: 2}
+    listObjSkin:
+    - parent: 0
+      objSkin: {fileID: 7347324330019584137, guid: 730c66dcc7196884cbb6f27540a7d763, type: 3}
+  - coint: 1000
+    sprite: {fileID: 21300000, guid: cf2c2f0409a120d4084268be4362625f, type: 3}
+    material:
+    - {fileID: -4597308625981230245, guid: 949b06bc2d5461941b89d57e91923b6c, type: 3}
+    listObjSkin:
+    - parent: 0
+      objSkin: {fileID: 555126047544564029, guid: 04b0290dd84582549a2bf4ea04d9ba16, type: 3}
+    - parent: 1
+      objSkin: {fileID: 371446592258633193, guid: 67b72c95f03cdc242a1afa1a56efb03c, type: 3}
+  - coint: 1000
+    sprite: {fileID: 21300000, guid: 8f00f4e5c6662634d9d6fb1e2e2b01ce, type: 3}
+    material:
+    - {fileID: 2100000, guid: a26f8974687dac345ba9026ef94eb0ee, type: 2}
+    listObjSkin:
+    - parent: 3
+      objSkin: {fileID: 8775119240794352900, guid: 2ee06c6170d7830489d5861099c418b2, type: 3}

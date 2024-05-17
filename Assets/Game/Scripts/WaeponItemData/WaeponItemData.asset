@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1449353e61b7654d8551650ea7773ad, type: 3}
+  m_Name: WaeponItemData
+  m_EditorClassIdentifier: 
+  listWaeponData:
+  - index: 0
+    speed: 9
+    WaeponPrifab: {fileID: 271020528400775349, guid: c4d8dd4a584706642b822a0bb15a703d, type: 3}
+  - index: 1
+    speed: 9
+    WaeponPrifab: {fileID: 3394884302009456293, guid: c76c125e6dd971d4faaf762384a7a7d8, type: 3}
+  - index: 2
+    speed: 9
+    WaeponPrifab: {fileID: 8549322667358554130, guid: 456fb4848355c514ca4abd85a45513f3, type: 3}
+  - index: 3
+    speed: 9
+    WaeponPrifab: {fileID: 3016545760595495476, guid: 07efd0ffdc90d724696bd51a5e660b6c, type: 3}
+  - index: 4
+    speed: 9
+    WaeponPrifab: {fileID: 6014855427912436396, guid: 86d90cf6c4bf0f04badfb2a029237598, type: 3}
+  - index: 5
+    speed: 9
+    WaeponPrifab: {fileID: 5766402408839831404, guid: ba0f381c7f6d763449744277a83fa796, type: 3}

@@ -1,0 +1,224 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8660a4f37588684d81a3a6959f714c2, type: 3}
+  m_Name: New Material Waepon
+  m_EditorClassIdentifier: 
+  listmateriaWaepon:
+  - listmaterials:
+    - index: 0
+      materials:
+      - {fileID: 0}
+      - {fileID: 2100000, guid: 9df2ac806ad378f47b75be49a89093ee, type: 2}
+      waepon: {fileID: 9204163844600098749, guid: 6a6f6c6af72c2d648b35b93e94f759f4, type: 3}
+      textures: {fileID: 8400000, guid: 20a7b425b26798e42ae367cd30971cff, type: 2}
+    - index: 1
+      materials:
+      - {fileID: 2100000, guid: b2d9f216adcf8e64585bdae4980e46b5, type: 2}
+      - {fileID: 2100000, guid: 42846f32b69b660408cad12e321cd0c0, type: 2}
+      waepon: {fileID: 2813293990374930864, guid: 53ff1b728f15cca448a22f305dfa5696, type: 3}
+      textures: {fileID: 8400000, guid: e61dd9e0812185f4e8956f54e3387da6, type: 2}
+    - index: 2
+      materials:
+      - {fileID: 2100000, guid: f296a6979f207c34eb491be712eeea8b, type: 2}
+      - {fileID: 2100000, guid: 048e7b65a5e050044a1efea7b0aececd, type: 2}
+      waepon: {fileID: 3900240228206511286, guid: faef4c69f285b9f4692a2fa4b7500e23, type: 3}
+      textures: {fileID: 8400000, guid: c6ea6df23c8b24940815e65610c1be5f, type: 2}
+    - index: 3
+      materials:
+      - {fileID: 2100000, guid: b45fcefab340434429ef14c2cd48b7c3, type: 2}
+      - {fileID: 2100000, guid: b45fcefab340434429ef14c2cd48b7c3, type: 2}
+      waepon: {fileID: 1655738268280013446, guid: 4f6a586e67bc59042a3586a492c184c4, type: 3}
+      textures: {fileID: 8400000, guid: e33fbc0f086844a4d9c2323674eb14be, type: 2}
+    - index: 4
+      materials:
+      - {fileID: 2100000, guid: 86090caa7ef02bb4fa0317fb396a5827, type: 2}
+      - {fileID: 2100000, guid: 86090caa7ef02bb4fa0317fb396a5827, type: 2}
+      waepon: {fileID: 5014958416520020714, guid: 35e66bdb8cb138744a73334fc8c41605, type: 3}
+      textures: {fileID: 8400000, guid: 728422f10db2e6e4c95ab9e67ad34e4f, type: 2}
+    price: 100
+    AmountMaterial: 2
+    sprite: {fileID: 21300000, guid: bffc187d7a6c5294396d38091beaca9a, type: 3}
+  - listmaterials:
+    - index: 0
+      materials:
+      - {fileID: 2100000, guid: b2d9f216adcf8e64585bdae4980e46b5, type: 2}
+      - {fileID: 2100000, guid: 6b4e278f2b209c846925e6ea5d2ae890, type: 2}
+      - {fileID: 2100000, guid: 6b4e278f2b209c846925e6ea5d2ae890, type: 2}
+      waepon: {fileID: 5174758350404178170, guid: a9fc161171cdb63478e3213d669e38e4, type: 3}
+      textures: {fileID: 8400000, guid: 20a7b425b26798e42ae367cd30971cff, type: 2}
+    - index: 1
+      materials:
+      - {fileID: 2100000, guid: f296a6979f207c34eb491be712eeea8b, type: 2}
+      - {fileID: 2100000, guid: 048e7b65a5e050044a1efea7b0aececd, type: 2}
+      - {fileID: 2100000, guid: 40129e0de2a91da4aba48da30c251adb, type: 2}
+      waepon: {fileID: 9201585113662847672, guid: 7006cf3722c5443419ff82406f0192b6, type: 3}
+      textures: {fileID: 8400000, guid: e61dd9e0812185f4e8956f54e3387da6, type: 2}
+    - index: 2
+      materials:
+      - {fileID: 2100000, guid: 40129e0de2a91da4aba48da30c251adb, type: 2}
+      - {fileID: 2100000, guid: 048e7b65a5e050044a1efea7b0aececd, type: 2}
+      - {fileID: 2100000, guid: f296a6979f207c34eb491be712eeea8b, type: 2}
+      waepon: {fileID: 9201585113662847672, guid: c3e9e6d2b23f2244489db08b2c659c86, type: 3}
+      textures: {fileID: 8400000, guid: c6ea6df23c8b24940815e65610c1be5f, type: 2}
+    - index: 3
+      materials:
+      - {fileID: 2100000, guid: af554a03f5ad37f479f4eaa751aacab9, type: 2}
+      - {fileID: 2100000, guid: af554a03f5ad37f479f4eaa751aacab9, type: 2}
+      - {fileID: 2100000, guid: af554a03f5ad37f479f4eaa751aacab9, type: 2}
+      waepon: {fileID: 9201585113662847672, guid: 753366534964caf4f966b28f62050683, type: 3}
+      textures: {fileID: 8400000, guid: e33fbc0f086844a4d9c2323674eb14be, type: 2}
+    - index: 4
+      materials:
+      - {fileID: 2100000, guid: 4638e04092ab0c3428197100d4e86776, type: 2}
+      - {fileID: 2100000, guid: 4638e04092ab0c3428197100d4e86776, type: 2}
+      - {fileID: 2100000, guid: 4638e04092ab0c3428197100d4e86776, type: 2}
+      waepon: {fileID: 4464240995047856415, guid: 82fa13f00a56ad74390ba88a9a6c7598, type: 3}
+      textures: {fileID: 8400000, guid: 728422f10db2e6e4c95ab9e67ad34e4f, type: 2}
+    price: 200
+    AmountMaterial: 3
+    sprite: {fileID: 21300000, guid: a8b32d2f643d4884db4fd054d1b5ed9b, type: 3}
+  - listmaterials:
+    - index: 0
+      materials:
+      - {fileID: 2100000, guid: b2d9f216adcf8e64585bdae4980e46b5, type: 2}
+      - {fileID: 2100000, guid: 6b4e278f2b209c846925e6ea5d2ae890, type: 2}
+      waepon: {fileID: 6020278299125255197, guid: 0c1e0cce875f39c49a1828c3d3b31fac, type: 3}
+      textures: {fileID: 8400000, guid: 20a7b425b26798e42ae367cd30971cff, type: 2}
+    - index: 1
+      materials:
+      - {fileID: 2100000, guid: 9df2ac806ad378f47b75be49a89093ee, type: 2}
+      - {fileID: 2100000, guid: f296a6979f207c34eb491be712eeea8b, type: 2}
+      waepon: {fileID: 2222829897712922341, guid: 51a2e8e08263428448228fb6bf233fb7, type: 3}
+      textures: {fileID: 8400000, guid: e61dd9e0812185f4e8956f54e3387da6, type: 2}
+    - index: 2
+      materials:
+      - {fileID: 2100000, guid: 40129e0de2a91da4aba48da30c251adb, type: 2}
+      - {fileID: 2100000, guid: b2d9f216adcf8e64585bdae4980e46b5, type: 2}
+      waepon: {fileID: 7938325734638864214, guid: ead63d8f559cc1a478a3f40ea113d34d, type: 3}
+      textures: {fileID: 8400000, guid: c6ea6df23c8b24940815e65610c1be5f, type: 2}
+    - index: 3
+      materials:
+      - {fileID: 2100000, guid: ac49509e08f84b24080e1a9063277876, type: 2}
+      - {fileID: 2100000, guid: ac49509e08f84b24080e1a9063277876, type: 2}
+      waepon: {fileID: 4367231906116789795, guid: 1889e2a7b146b66428d87518c11d2023, type: 3}
+      textures: {fileID: 8400000, guid: e33fbc0f086844a4d9c2323674eb14be, type: 2}
+    - index: 4
+      materials:
+      - {fileID: 2100000, guid: 0cff233f28f68a9458cd3230ae102445, type: 2}
+      - {fileID: 2100000, guid: 0cff233f28f68a9458cd3230ae102445, type: 2}
+      waepon: {fileID: 9038257368602104115, guid: 1b309d037173f2d4289e6272b09d11cb, type: 3}
+      textures: {fileID: 8400000, guid: 728422f10db2e6e4c95ab9e67ad34e4f, type: 2}
+    price: 200
+    AmountMaterial: 2
+    sprite: {fileID: 21300000, guid: 84f29ba148c577e418effe612e991745, type: 3}
+  - listmaterials:
+    - index: 0
+      materials:
+      - {fileID: 2100000, guid: b2d9f216adcf8e64585bdae4980e46b5, type: 2}
+      - {fileID: 2100000, guid: 6b4e278f2b209c846925e6ea5d2ae890, type: 2}
+      waepon: {fileID: 568136167732488007, guid: b353518e78390f74a86faa9c6630112b, type: 3}
+      textures: {fileID: 8400000, guid: 20a7b425b26798e42ae367cd30971cff, type: 2}
+    - index: 1
+      materials:
+      - {fileID: 2100000, guid: b2d9f216adcf8e64585bdae4980e46b5, type: 2}
+      - {fileID: 2100000, guid: 6b4e278f2b209c846925e6ea5d2ae890, type: 2}
+      waepon: {fileID: 5915650778187600168, guid: 426b99afb7b3c5a48bee7c28081dcb30, type: 3}
+      textures: {fileID: 8400000, guid: e61dd9e0812185f4e8956f54e3387da6, type: 2}
+    - index: 2
+      materials:
+      - {fileID: 2100000, guid: 40129e0de2a91da4aba48da30c251adb, type: 2}
+      - {fileID: 2100000, guid: 048e7b65a5e050044a1efea7b0aececd, type: 2}
+      waepon: {fileID: 6240609655661106134, guid: c22cc29971649934d8ea287f367660a0, type: 3}
+      textures: {fileID: 8400000, guid: c6ea6df23c8b24940815e65610c1be5f, type: 2}
+    - index: 3
+      materials:
+      - {fileID: 2100000, guid: da2290d296163c94fabe89b1f58309a3, type: 2}
+      - {fileID: 2100000, guid: da2290d296163c94fabe89b1f58309a3, type: 2}
+      waepon: {fileID: 4240327941396898213, guid: d7585feab0be3674eb1ed9354ca1a90a, type: 3}
+      textures: {fileID: 8400000, guid: e33fbc0f086844a4d9c2323674eb14be, type: 2}
+    - index: 4
+      materials:
+      - {fileID: 2100000, guid: e996dc98a18d9794ea66bc04b8f702b2, type: 2}
+      - {fileID: 2100000, guid: e996dc98a18d9794ea66bc04b8f702b2, type: 2}
+      waepon: {fileID: 3202506693022368135, guid: 51748a3e80093af4bac265d8f2d62b00, type: 3}
+      textures: {fileID: 8400000, guid: 728422f10db2e6e4c95ab9e67ad34e4f, type: 2}
+    price: 200
+    AmountMaterial: 2
+    sprite: {fileID: 21300000, guid: 26150584387705c47b76d54605c13453, type: 3}
+  - listmaterials:
+    - index: 0
+      materials:
+      - {fileID: 0}
+      waepon: {fileID: 897553348557933133, guid: a5c69b1188fd1c5498964a18c504ef9d, type: 3}
+      textures: {fileID: 8400000, guid: 20a7b425b26798e42ae367cd30971cff, type: 2}
+    - index: 1
+      materials:
+      - {fileID: 2100000, guid: 9df2ac806ad378f47b75be49a89093ee, type: 2}
+      waepon: {fileID: 5696615495671593271, guid: c3aa9fc8fec7a7945847b61823992102, type: 3}
+      textures: {fileID: 8400000, guid: e61dd9e0812185f4e8956f54e3387da6, type: 2}
+    - index: 2
+      materials:
+      - {fileID: 2100000, guid: 40129e0de2a91da4aba48da30c251adb, type: 2}
+      waepon: {fileID: 8597218757934718563, guid: e6ad154f1726c1641b86a97be8cadcb4, type: 3}
+      textures: {fileID: 8400000, guid: c6ea6df23c8b24940815e65610c1be5f, type: 2}
+    - index: 3
+      materials:
+      - {fileID: 2100000, guid: b4ffc0418e970254eaa4b948a823801b, type: 2}
+      waepon: {fileID: 4446569267334260783, guid: c7b81eff0ea43ef4392849ba59570e09, type: 3}
+      textures: {fileID: 8400000, guid: e33fbc0f086844a4d9c2323674eb14be, type: 2}
+    - index: 4
+      materials:
+      - {fileID: 2100000, guid: 7ec3eee82d409004c8dab65003dbaaf6, type: 2}
+      waepon: {fileID: 2035530597347912269, guid: a91f99e5d6472cc4280c73aede63304e, type: 3}
+      textures: {fileID: 8400000, guid: 728422f10db2e6e4c95ab9e67ad34e4f, type: 2}
+    price: 200
+    AmountMaterial: 1
+    sprite: {fileID: 21300000, guid: e6c0056b66cd78841ac1ea249d76253e, type: 3}
+  - listmaterials:
+    - index: 0
+      materials:
+      - {fileID: 0}
+      - {fileID: 0}
+      - {fileID: 0}
+      waepon: {fileID: 529949784586504369, guid: d124c91475b267347b4553dc3887c35c, type: 3}
+      textures: {fileID: 8400000, guid: 20a7b425b26798e42ae367cd30971cff, type: 2}
+    - index: 1
+      materials:
+      - {fileID: 2100000, guid: 40129e0de2a91da4aba48da30c251adb, type: 2}
+      - {fileID: 2100000, guid: 42846f32b69b660408cad12e321cd0c0, type: 2}
+      - {fileID: 2100000, guid: 9df2ac806ad378f47b75be49a89093ee, type: 2}
+      waepon: {fileID: 4099311639756403620, guid: cb44b7553b6095d4fbc9b68f6902b619, type: 3}
+      textures: {fileID: 8400000, guid: e61dd9e0812185f4e8956f54e3387da6, type: 2}
+    - index: 2
+      materials:
+      - {fileID: 2100000, guid: 048e7b65a5e050044a1efea7b0aececd, type: 2}
+      - {fileID: 2100000, guid: 048e7b65a5e050044a1efea7b0aececd, type: 2}
+      - {fileID: 2100000, guid: 42846f32b69b660408cad12e321cd0c0, type: 2}
+      waepon: {fileID: 1370589191045555374, guid: ac1ea38de24853c478c5ae9cba509c2d, type: 3}
+      textures: {fileID: 8400000, guid: c6ea6df23c8b24940815e65610c1be5f, type: 2}
+    - index: 3
+      materials:
+      - {fileID: 2100000, guid: 180fe9a6bfad5634c9024c2572257d19, type: 2}
+      - {fileID: 2100000, guid: 180fe9a6bfad5634c9024c2572257d19, type: 2}
+      - {fileID: 2100000, guid: 180fe9a6bfad5634c9024c2572257d19, type: 2}
+      waepon: {fileID: 4591475014445406607, guid: 296bea0426fc45549a7857bc4684513e, type: 3}
+      textures: {fileID: 8400000, guid: e33fbc0f086844a4d9c2323674eb14be, type: 2}
+    - index: 4
+      materials:
+      - {fileID: 2100000, guid: 692d0cdeeca07f149a446da2ad861ce3, type: 2}
+      - {fileID: 2100000, guid: 692d0cdeeca07f149a446da2ad861ce3, type: 2}
+      - {fileID: 2100000, guid: 692d0cdeeca07f149a446da2ad861ce3, type: 2}
+      waepon: {fileID: 3793747373138771285, guid: 633fdf9954353c14399f0416201c228f, type: 3}
+      textures: {fileID: 8400000, guid: 728422f10db2e6e4c95ab9e67ad34e4f, type: 2}
+    price: 200
+    AmountMaterial: 3
+    sprite: {fileID: 21300000, guid: 0e01e3af4b7ab0e41b1a3b80370025f3, type: 3}
